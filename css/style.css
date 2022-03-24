@@ -22,3 +22,7 @@ body
    align-items: center;
     justify-content: space-between;
 }
+.nav _link {
+    color: wite;
+    text-transform: uppercase;
+}
